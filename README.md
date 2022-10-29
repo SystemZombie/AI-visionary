@@ -1,70 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Project title: AI Visionary
+This project tends to give visually impaired people an independence to walk on the roads without any living assistance. 
 
-## Available Scripts
+#How it works:
+The users phone camera takes the input and processes it to find any obstacles in the path of the user and intimate the user over the voice
+telling what object is there in front of the user and at what distance and the intensity of danger that the object could cause to the user.
+Ex: A cat in front of a person is less dangerous compared to an approching car, our system differentiate it and conveys it to the user after prioritising.
 
-In the project directory, you can run:
+We have also incorporated a fall detection system embedded in the app that we have created it uses the accelerometer in the phone to catch the unusual vibrations
+so if the user falls down or meets with an accident it conveys the location of the user to their relavtive.
 
-### `yarn start`
+![image](https://user-images.githubusercontent.com/104610103/198843468-3ca99f39-2b67-4579-9118-b2bdb0ca6b7c.png)
+loacation of the user convaed to the relative.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# https-succourtodivyang.github.io-
-# stgpro
+This web application is embedded in the mobile application for faster accessing.
