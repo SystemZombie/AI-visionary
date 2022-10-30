@@ -13,3 +13,7 @@ so if the user falls down or meets with an accident it conveys the location of t
 loacation of the user convaed to the relative.
 
 This web application is embedded in the mobile application for faster accessing.
+
+User gives voice command on what has to be done, ex: I want to walk saftely, navigate me to nearest tea shop....etc.
+Artificaial intelligence and NLP is used to find out what the user is trying to say in the android application. The message is tranfered to the 
+cloud and process the command.
